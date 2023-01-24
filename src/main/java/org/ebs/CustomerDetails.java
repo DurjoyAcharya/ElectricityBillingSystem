@@ -25,6 +25,7 @@ public class CustomerDetails extends JFrame implements ActionListener{
             ResultSet rs = c.s.executeQuery("select * from customer");
             
            // table.setModel(DbUtils.resultSetToTableModel(rs));
+            //table.setModel();
         } catch (Exception e) {
             e.printStackTrace();
         }
