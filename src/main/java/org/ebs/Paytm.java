@@ -15,7 +15,7 @@ public class Paytm extends JFrame implements ActionListener{
         j.setEditable(false);
         
         try {
-            j.setPage("https://paytm.com/online-payments");
+            j.setPage("https://www.bkash.com/en/products-services/electricity-paybill");
         } catch (Exception e) {
             j.setContentType("text/html");
             j.setText("<html>Could not load<html>");

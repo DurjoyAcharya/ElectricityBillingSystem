@@ -102,7 +102,7 @@ public class NewCustomer extends JFrame implements ActionListener{
         
         add(p, "Center");
         
-        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icon/hicon1.jpg"));
+        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("hicon1.jpg"));
         Image i2 = i1.getImage().getScaledInstance(150, 300, Image.SCALE_DEFAULT);
         ImageIcon i3 = new ImageIcon(i2);
         JLabel image = new JLabel(i3);
