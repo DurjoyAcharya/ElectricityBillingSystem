@@ -4,14 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d989a974-e021-49a8-a53e-8951c1646ba5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/Main.java" afterDir="false" />
+    <list default="true" id="d989a974-e021-49a8-a53e-8951c1646ba5" name="Changes" comment="Start">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/BillDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/CalculateBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/CustomerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/DepositDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/GenerateBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/MeterInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/NewCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/PayBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/Paytm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/Signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/Splash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/UpdateInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ebs/ViewInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/abc1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/abc2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/abc3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/abc4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/abc5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/abc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cancel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/elect.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/elect1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/elect2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hicon1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hicon2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/line.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/second.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/signup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/signupImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/update.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/viewcustomer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebs/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,19 +67,63 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KmR7fdmgxItzlccj608D755Lqz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rupkotha/IdeaProjects/ElectricityBillingSystem/src/main/resources&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ebs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ViewInformation">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ebs.Login" />
+      <module name="ElectricityBillingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ebs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ebs.ViewInformation" />
+      <module name="ElectricityBillingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ebs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ViewInformation" />
+        <item itemvalue="Application.Login" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,8 +132,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674577608600</updated>
-      <workItem from="1674577610996" duration="405000" />
+      <workItem from="1674577610996" duration="953000" />
     </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1674578027444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578027444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,5 +157,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start" />
   </component>
 </project>
