@@ -146,7 +146,7 @@ public class CalculateBill extends JFrame implements ActionListener{
     
     public void actionPerformed(ActionEvent ae) {
         if (ae.getSource() == next) {
-            String meter = meternumber.getSelectedItem();
+            String meter = meternumber.getSelectedItem();//get meter number
             String units = tfunits.getText();
             String month = cmonth.getSelectedItem();
             
@@ -164,7 +164,7 @@ public class CalculateBill extends JFrame implements ActionListener{
                     totalbill += Integer.parseInt(rs.getString("meter_rent"));
                     totalbill += Integer.parseInt(rs.getString("service_charge"));
                     totalbill += Integer.parseInt(rs.getString("service_tax"));
-                    totalbill += Integer.parseInt(rs.getString("swacch_bharat_cess"));
+                    //totalbill += Integer.parseInt(rs.getString("swacch_bharat_cess"));
                     totalbill += Integer.parseInt(rs.getString("fixed_tax"));
                 }
             } catch (Exception e) {

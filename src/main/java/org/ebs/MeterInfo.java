@@ -150,6 +150,6 @@ public class MeterInfo extends JFrame implements ActionListener{
     }
     
     public static void main(String[] args) {
-        new MeterInfo("");
+        new MeterInfo("1925102002");
     }
 }
