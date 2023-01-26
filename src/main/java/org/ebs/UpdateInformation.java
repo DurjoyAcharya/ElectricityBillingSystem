@@ -140,7 +140,6 @@ public class UpdateInformation extends JFrame implements ActionListener{
             setVisible(false);
         }
     }
-
     public static void main(String[] args) {
         new UpdateInformation("");
     }
